@@ -1,0 +1,20 @@
+{
+  "name": "gl_bot",
+  "version": "1.0.0",
+  "description": "an open-souce discord bot for the GeneralLinux discord server. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "discordbot",
+    "linux"
+  ],
+  "author": "ico277",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
